@@ -139,7 +139,8 @@ const navItems = [
           </p>
           <p class="text-lg text-gray-700 mb-4"><strong>Ta'lim:</strong> PDP Academy</p>
           <p class="text-lg text-gray-700">
-            <strong>Ko'nikmalar:</strong> HTML, CSS, JavaScript, React, Vue.js
+            <strong>Ko'nikmalar:</strong> HTML, CSS, JavaScript, React, Redux, Redux Thunk, Redux
+            Toolkit, Context API, Next.js, Vue.js
           </p>
         </div>
       </section>
