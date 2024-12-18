@@ -133,6 +133,16 @@ const navItems = [
           <p class="text-lg text-gray-700 mb-4">
             <strong>Email:</strong> abdulloxstrike1@gmail.com
           </p>
+          <p class="text-lg text-gray-700 mb-4">
+            <strong>Telegram: </strong>
+            <a
+              href="https://t.me/Abdullox99"
+              class="text-blue-600"
+              target="_blank"
+              rel="noopener noreferrer"
+              >@Abdullox99</a
+            >
+          </p>
           <p class="text-lg text-gray-700 mb-4"><strong>Manzil:</strong> Toshkent, Shayhontohur</p>
           <p class="text-lg text-gray-700 mb-4">
             <strong>Maqsad:</strong> Senior Frontend Developer sifatida rivojlanish
