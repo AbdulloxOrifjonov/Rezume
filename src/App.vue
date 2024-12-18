@@ -199,7 +199,7 @@ const navItems = [
               <div class="p-4">
                 <h3 class="text-xl font-bold mb-2">Web-Site IDS</h3>
                 <p class="text-gray-600">This real project is about IDS company</p>
-                <a href="https://ids-project.netlify.app/" target="_blank">
+                <a href="https://ids-projectt.netlify.app/" target="_blank">
                   <button class="bg-blue-500 text-white py-1 px-3 mt-4 rounded">View More</button>
                 </a>
               </div>
