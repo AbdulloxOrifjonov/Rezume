@@ -135,7 +135,7 @@ const navItems = [
           </p>
           <p class="text-lg text-gray-700 mb-4"><strong>Manzil:</strong> Toshkent, Shayhontohur</p>
           <p class="text-lg text-gray-700 mb-4">
-            <strong>Maqsad:</strong> Junior Frontend Developer sifatida rivojlanish
+            <strong>Maqsad:</strong> Senior Frontend Developer sifatida rivojlanish
           </p>
           <p class="text-lg text-gray-700 mb-4"><strong>Ta'lim:</strong> PDP Academy</p>
           <p class="text-lg text-gray-700">
